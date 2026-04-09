@@ -1,0 +1,6 @@
+HLIDAY PROJECT/
+├── dataset/
+│   ├── dataset0.5.txt  
+│   └── Dataset1.txt   
+├── Code part.py
+└── Structure.txt

@@ -1,0 +1,44 @@
+# Common English Typos
+# Format: wrong → correct
+
+teh → the
+recieve → receive
+speling → spelling
+definately → definitely
+occured → occurred
+seperate → separate
+adress → address
+beleive → believe
+calender → calendar
+collegue → colleague
+concious → conscious
+damaage → damage
+embarass → embarrass
+enviroment → environment
+existance → existence
+foriegn → foreign
+goverment → government
+grammer → grammar
+hieght → height
+immediatly → immediately
+independant → independent
+knolwedge → knowledge
+laguage → language
+liason → liaison
+maintainance → maintenance
+millenium → millennium
+neccessary → necessary
+occassion → occasion
+persue → pursue
+privelege → privilege
+publically → publicly
+questionaire → questionnaire
+relevent → relevant
+restaraunt → restaurant
+rythm → rhythm
+sieze → seize
+succesful → successful
+tommorow → tomorrow
+untill → until
+wierd → weird
+writting → writing

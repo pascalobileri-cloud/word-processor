@@ -1,0 +1,23 @@
+# Tech & Programming Common Typos
+# Format: wrong → correct
+
+fucntion → function
+retrun → return
+pritn → print
+clsas → class
+improt → import
+paramter → parameter
+excpetion → exception
+iteraion → iteration
+varialbe → variable
+conditon → condition
+implmentation → implementation
+algorythm → algorithm
+databse → database
+intreface → interface
+repositry → repository
+autentication → authentication
+dependancy → dependency
+configration → configuration
+deployement → deployment
+microserivce → microservice
